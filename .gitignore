@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 cleanout_notebooks.txt
+concurp-jupyter.code-workspace
